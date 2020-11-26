@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\phili\OneDrive\Skrivbord\School\Sideprojects\AI\Lab5\lab5_workspace\.metadata\.plugins\org.eclipse.jdt.core
+8507187.index
+789344348.index
+1994015352.index
